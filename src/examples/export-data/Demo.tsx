@@ -43,8 +43,8 @@ export default function ExportDataDemo() {
   };
 
   const data: ReactSchedulerProps["data"] = {
-    save: (action, entity, id, data) => {
-      console.log(action, entity, id, data);
+    save: (entity, action, data, id) => {
+      console.log(entity, action, data, id);
     }
   };
 
