@@ -14,7 +14,7 @@ npm install
 npm start
 ```
 
-The app starts locally with the public trial wrapper package `@dhtmlx/trial-react-scheduler` pinned to `^7.2.13`.
+The app starts locally with the public trial wrapper package `@dhtmlx/trial-react-scheduler` pinned to `^7.2.15`.
 
 ## Build for production
 
